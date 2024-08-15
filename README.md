@@ -8,7 +8,7 @@ A distinctive advantage of DISD over standard speculative decoding methods is it
 Before running the scripts, ensure you have Python and the necessary libraries installed. Install the required packages using pip:
 
 ```bash
-pip install torch transformers pandas matplotlib
+pip install numpy pandas torch matplotlib transformers
 ```
 
 ### Generating Model Distributions

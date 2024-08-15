@@ -27,7 +27,7 @@ Analyze the coupling between the large and small models using Gumbel Sampling an
 ```bash
 python plot_coupling_bounds.py --model_large gemma-2-27b-it\
  --model_small gemma-2-2b-it \
- --input_text "What is the lower bound for sorting?" \
+ --input_text "What is the Traveling Salesman Problem (TSP)?" \
  --num_tokens 32 \
  --num_retries 20000
 ```

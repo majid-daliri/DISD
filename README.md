@@ -39,3 +39,11 @@ Each execution compares the token distributions from the large model ($\mathcal{
 
 
 ### Citation
+```
+@article{daliri2024couplingcommunicationdrafterinvariantspeculative,
+  title={Coupling without Communication and Drafter-Invariant Speculative Decoding},
+  author={Daliri, Majid and Musco, Christopher and Suresh, Ananda Theertha},
+  journal={arXiv preprint arXiv:2408.07978},
+  year={2024}
+}
+```
